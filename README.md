@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">Aspiring Data Enthusiast | Entry-Level Data Analyst & Engineer | Eager to Dive into Business Analysis | Seeking Opportunities to Learn and Grow.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1648&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1648" /> </p>
+<p align="left"> <img src= "https://komarev.com/ghpvc/username=abhi1648&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1648" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1648" alt="abhi1648" /></a> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at [https://github.com/abhi1648](https://github.com/abhi1648)
+- 👨‍💻 All of my projects are available at (https://github.com/abhi1648)
 
 - 💬 Ask me about **Data Science, Data Analysis, Market Analysis**
 
@@ -17,7 +17,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abhisheks1648" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abhisheks1648" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/abhisheks1648" target="blank"><img align="center"src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="https://www.linkedin.com/in/abhisheks1648" height="30" width="40" /></a>
 <a href="https://instagram.com/abhi1648201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi1648201" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishek_kumar_singh_1648/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishek_kumar_singh_1648/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
