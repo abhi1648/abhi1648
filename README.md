@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">Aspiring Data Enthusiast | Entry-Level Data Analyst & Engineer | Eager to Dive into Business Analysis | Seeking Opportunities to Learn and Grow.</h3>
 <img align="center" alt="Coding" width="800" src="https://media4.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif">
-<p align="left"> <img src= "https://komarev.com/ghpvc/username=abhi1648 & label=Profile%20views&color=0e75b6&style=flat" alt=" " /> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi1648&label=Profile%20views&color=0e75b6&style=flat" alt="abhi1648" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abhi1648" alt="abhi1648" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
