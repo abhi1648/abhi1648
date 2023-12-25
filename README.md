@@ -1,4 +1,4 @@
-<img align="center" alt="Coding" width="900" src="https://media4.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif">
+<img align="center" alt="Coding" width="800" src="https://media4.giphy.com/media/dyzew7Py7bnW9DiJJj/giphy.gif">
 <h1 align="center">Hi 👋, I'm Abhishek Kumar Singh</h1>
 <h3 align="center">Aspiring Data Enthusiast | Entry-Level Data Analyst & Engineer | Eager to Dive into Business Analysis | Seeking Opportunities to Learn and Grow.</h3>
 
