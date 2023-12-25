@@ -18,7 +18,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/abhisheks1648" target="blank"><img align="center"src="https://pngimg.com/uploads/linkedIn/linkedIn_PNG6.png" alt="https://www.linkedin.com/in/abhisheks1648" height="30" width="40" /></a>
-<a href="https://instagram.com/abhi1648201" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abhi1648201" height="30" width="40" /></a>
+<a href="https://instagram.com/abhi1648201" target="blank"><img align="center" src="http://pngimg.com/uploads/instagram/instagram_PNG10.png" alt="abhi1648201" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/https://auth.geeksforgeeks.org/user/abhishek_kumar_singh_1648/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="https://auth.geeksforgeeks.org/user/abhishek_kumar_singh_1648/?utm_source=geeksforgeeks&utm_medium=my_profile&utm_campaign=auth_user" height="30" width="40" /></a>
 </p>
 
