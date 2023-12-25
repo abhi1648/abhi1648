@@ -9,7 +9,7 @@
 <img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 - 🌱 I’m currently learning **Data Analysis**
 
-- 👨‍💻 All of my projects are available at (https://github.com/abhi1648)
+- 👨‍💻 All of my projects are available at (github.com/abhi1648)
 
 - 💬 Ask me about **Data Science, Data Analysis, Market Analysis**
 
